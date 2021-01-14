@@ -25,9 +25,9 @@
       "fontFace": "FiraCode Nerd Font",
       "fontSize": 12,
       "padding": "0, 0, -20, 0",
-      "antialiasingMode": "cleartype",
-      "useAcrylic": true,
-      "acrylicOpacity": 0.75
+      "antialiasingMode": "cleartype"
+      //"useAcrylic": true,
+      //"acrylicOpacity": 0.75
     },
     "list": [
       {
