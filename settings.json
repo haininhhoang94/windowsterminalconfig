@@ -11,8 +11,9 @@
   "copyFormatting": false,
 
   // Tab UI
-  // "alwaysShowTabs": false,
-  // "showTabsInTitlebar": false,
+  "alwaysShowTabs": false,
+  "showTabsInTitlebar": false,
+  "showTerminalTitleInTitlebar": false,
 
   // Profiles
   "profiles": {
